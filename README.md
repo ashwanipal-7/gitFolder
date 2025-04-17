@@ -1,2 +1,2 @@
 # gitFolder
-this is a demo folder for git usage.
+this is a demo folder for git usage in first time.
